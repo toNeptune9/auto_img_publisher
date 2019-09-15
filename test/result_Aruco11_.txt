@@ -1,0 +1,1184 @@
+Frame number =1 Aruco ID=11
+ angle value =90 Turn number=0 TIME 2019-04-05 14:49:06
+
+Frame number =2 angle value =87 Turn number=0 TIME 2019-04-05 14:49:08
+
+Frame number =3 angle value =84 Turn number=0 TIME 2019-04-05 14:49:09
+
+Frame number =4 angle value =81 Turn number=0 TIME 2019-04-05 14:49:11
+
+Frame number =5 angle value =78 Turn number=0 TIME 2019-04-05 14:49:13
+
+Frame number =6 angle value =75 Turn number=0 TIME 2019-04-05 14:49:14
+
+Frame number =7 angle value =72 Turn number=0 TIME 2019-04-05 14:49:16
+
+Frame number =8 angle value =69 Turn number=0 TIME 2019-04-05 14:49:17
+
+Frame number =9 angle value =66 Turn number=0 TIME 2019-04-05 14:49:19
+
+Frame number =10 angle value =63 Turn number=0 TIME 2019-04-05 14:49:21
+
+Frame number =11 angle value =60 Turn number=0 TIME 2019-04-05 14:49:22
+
+Frame number =12 angle value =57 Turn number=0 TIME 2019-04-05 14:49:24
+
+Frame number =13 angle value =54 Turn number=0 TIME 2019-04-05 14:49:25
+
+Frame number =14 angle value =51 Turn number=0 TIME 2019-04-05 14:49:27
+
+Frame number =15 angle value =48 Turn number=0 TIME 2019-04-05 14:49:28
+
+Frame number =16 angle value =45 Turn number=0 TIME 2019-04-05 14:49:30
+
+Frame number =17 angle value =42 Turn number=0 TIME 2019-04-05 14:49:32
+
+Frame number =18 angle value =39 Turn number=0 TIME 2019-04-05 14:49:33
+
+Frame number =19 angle value =36 Turn number=0 TIME 2019-04-05 14:49:35
+
+Frame number =20 angle value =33 Turn number=0 TIME 2019-04-05 14:49:36
+
+Frame number =21 angle value =30 Turn number=0 TIME 2019-04-05 14:49:38
+
+Frame number =22 angle value =27 Turn number=0 TIME 2019-04-05 14:49:40
+
+Frame number =23 angle value =24 Turn number=0 TIME 2019-04-05 14:49:41
+
+Frame number =24 angle value =21 Turn number=0 TIME 2019-04-05 14:49:43
+
+Frame number =25 angle value =18 Turn number=0 TIME 2019-04-05 14:49:44
+
+Frame number =26 angle value =15 Turn number=0 TIME 2019-04-05 14:49:46
+
+Frame number =27 angle value =12 Turn number=0 TIME 2019-04-05 14:49:47
+
+Frame number =28 angle value =9 Turn number=0 TIME 2019-04-05 14:49:49
+
+Frame number =29 angle value =6 Turn number=0 TIME 2019-04-05 14:49:51
+
+Frame number =30 angle value =3 Turn number=0 TIME 2019-04-05 14:49:52
+
+Frame number =31 angle value =0 Turn number=0 TIME 2019-04-05 14:49:54
+
+Frame number =32 angle value =3 Turn number=0 TIME 2019-04-05 14:49:55
+
+Frame number =33 angle value =6 Turn number=0 TIME 2019-04-05 14:49:57
+
+Frame number =34 angle value =9 Turn number=0 TIME 2019-04-05 14:49:59
+
+Frame number =35 angle value =12 Turn number=0 TIME 2019-04-05 14:50:00
+
+Frame number =36 angle value =15 Turn number=0 TIME 2019-04-05 14:50:02
+
+Frame number =37 angle value =18 Turn number=0 TIME 2019-04-05 14:50:03
+
+Frame number =38 angle value =21 Turn number=0 TIME 2019-04-05 14:50:05
+
+Frame number =39 angle value =24 Turn number=0 TIME 2019-04-05 14:50:07
+
+Frame number =40 angle value =27 Turn number=0 TIME 2019-04-05 14:50:08
+
+Frame number =41 angle value =30 Turn number=0 TIME 2019-04-05 14:50:10
+
+Frame number =42 angle value =33 Turn number=0 TIME 2019-04-05 14:50:11
+
+Frame number =43 angle value =36 Turn number=0 TIME 2019-04-05 14:50:13
+
+Frame number =44 angle value =39 Turn number=0 TIME 2019-04-05 14:50:14
+
+Frame number =45 angle value =42 Turn number=0 TIME 2019-04-05 14:50:16
+
+Frame number =46 angle value =45 Turn number=0 TIME 2019-04-05 14:50:18
+
+Frame number =47 angle value =48 Turn number=0 TIME 2019-04-05 14:50:19
+
+Frame number =48 angle value =51 Turn number=0 TIME 2019-04-05 14:50:21
+
+Frame number =49 angle value =54 Turn number=0 TIME 2019-04-05 14:50:22
+
+Frame number =50 angle value =57 Turn number=0 TIME 2019-04-05 14:50:24
+
+Frame number =51 angle value =60 Turn number=0 TIME 2019-04-05 14:50:26
+
+Frame number =52 angle value =63 Turn number=0 TIME 2019-04-05 14:50:27
+
+Frame number =53 angle value =66 Turn number=0 TIME 2019-04-05 14:50:29
+
+Frame number =54 angle value =69 Turn number=0 TIME 2019-04-05 14:50:30
+
+Frame number =55 angle value =72 Turn number=0 TIME 2019-04-05 14:50:32
+
+Frame number =56 angle value =75 Turn number=0 TIME 2019-04-05 14:50:34
+
+Frame number =57 angle value =78 Turn number=0 TIME 2019-04-05 14:50:35
+
+Frame number =58 angle value =81 Turn number=0 TIME 2019-04-05 14:50:37
+
+Frame number =59 angle value =84 Turn number=0 TIME 2019-04-05 14:50:38
+
+Frame number =60 angle value =87 Turn number=0 TIME 2019-04-05 14:50:40
+
+Frame number =61 angle value =87 Turn number=1 TIME 2019-04-05 14:50:41
+
+Frame number =62 angle value =84 Turn number=1 TIME 2019-04-05 14:50:43
+
+Frame number =63 angle value =81 Turn number=1 TIME 2019-04-05 14:50:45
+
+Frame number =64 angle value =78 Turn number=1 TIME 2019-04-05 14:50:46
+
+Frame number =65 angle value =75 Turn number=1 TIME 2019-04-05 14:50:48
+
+Frame number =66 angle value =72 Turn number=1 TIME 2019-04-05 14:50:49
+
+Frame number =67 angle value =69 Turn number=1 TIME 2019-04-05 14:50:51
+
+Frame number =68 angle value =66 Turn number=1 TIME 2019-04-05 14:50:53
+
+Frame number =69 angle value =63 Turn number=1 TIME 2019-04-05 14:50:54
+
+Frame number =70 angle value =60 Turn number=1 TIME 2019-04-05 14:50:56
+
+Frame number =71 angle value =57 Turn number=1 TIME 2019-04-05 14:50:57
+
+Frame number =72 angle value =54 Turn number=1 TIME 2019-04-05 14:50:59
+
+Frame number =73 angle value =51 Turn number=1 TIME 2019-04-05 14:51:01
+
+Frame number =74 angle value =48 Turn number=1 TIME 2019-04-05 14:51:02
+
+Frame number =75 angle value =45 Turn number=1 TIME 2019-04-05 14:51:04
+
+Frame number =76 angle value =42 Turn number=1 TIME 2019-04-05 14:51:05
+
+Frame number =77 angle value =39 Turn number=1 TIME 2019-04-05 14:51:07
+
+Frame number =78 angle value =36 Turn number=1 TIME 2019-04-05 14:51:08
+
+Frame number =79 angle value =33 Turn number=1 TIME 2019-04-05 14:51:10
+
+Frame number =80 angle value =30 Turn number=1 TIME 2019-04-05 14:51:12
+
+Frame number =81 angle value =27 Turn number=1 TIME 2019-04-05 14:51:13
+
+Frame number =82 angle value =24 Turn number=1 TIME 2019-04-05 14:51:15
+
+Frame number =83 angle value =21 Turn number=1 TIME 2019-04-05 14:51:16
+
+Frame number =84 angle value =18 Turn number=1 TIME 2019-04-05 14:51:18
+
+Frame number =85 angle value =15 Turn number=1 TIME 2019-04-05 14:51:20
+
+Frame number =86 angle value =12 Turn number=1 TIME 2019-04-05 14:51:21
+
+Frame number =87 angle value =9 Turn number=1 TIME 2019-04-05 14:51:23
+
+Frame number =88 angle value =6 Turn number=1 TIME 2019-04-05 14:51:24
+
+Frame number =89 angle value =3 Turn number=1 TIME 2019-04-05 14:51:26
+
+Frame number =90 angle value =0 Turn number=1 TIME 2019-04-05 14:51:27
+
+Frame number =91 angle value =3 Turn number=1 TIME 2019-04-05 14:51:29
+
+Frame number =92 angle value =6 Turn number=1 TIME 2019-04-05 14:51:31
+
+Frame number =93 angle value =9 Turn number=1 TIME 2019-04-05 14:51:32
+
+Frame number =94 angle value =12 Turn number=1 TIME 2019-04-05 14:51:34
+
+Frame number =95 angle value =15 Turn number=1 TIME 2019-04-05 14:51:35
+
+Frame number =96 angle value =18 Turn number=1 TIME 2019-04-05 14:51:37
+
+Frame number =97 angle value =21 Turn number=1 TIME 2019-04-05 14:51:39
+
+Frame number =98 angle value =24 Turn number=1 TIME 2019-04-05 14:51:40
+
+Frame number =99 angle value =27 Turn number=1 TIME 2019-04-05 14:51:42
+
+Frame number =100 angle value =30 Turn number=1 TIME 2019-04-05 14:51:43
+
+Frame number =101 angle value =33 Turn number=1 TIME 2019-04-05 14:51:45
+
+Frame number =102 angle value =36 Turn number=1 TIME 2019-04-05 14:51:47
+
+Frame number =103 angle value =39 Turn number=1 TIME 2019-04-05 14:51:48
+
+Frame number =104 angle value =42 Turn number=1 TIME 2019-04-05 14:51:50
+
+Frame number =105 angle value =45 Turn number=1 TIME 2019-04-05 14:51:51
+
+Frame number =106 angle value =48 Turn number=1 TIME 2019-04-05 14:51:53
+
+Frame number =107 angle value =51 Turn number=1 TIME 2019-04-05 14:51:54
+
+Frame number =108 angle value =54 Turn number=1 TIME 2019-04-05 14:51:56
+
+Frame number =109 angle value =57 Turn number=1 TIME 2019-04-05 14:51:58
+
+Frame number =110 angle value =60 Turn number=1 TIME 2019-04-05 14:51:59
+
+Frame number =111 angle value =63 Turn number=1 TIME 2019-04-05 14:52:01
+
+Frame number =112 angle value =66 Turn number=1 TIME 2019-04-05 14:52:02
+
+Frame number =113 angle value =69 Turn number=1 TIME 2019-04-05 14:52:04
+
+Frame number =114 angle value =72 Turn number=1 TIME 2019-04-05 14:52:06
+
+Frame number =115 angle value =75 Turn number=1 TIME 2019-04-05 14:52:07
+
+Frame number =116 angle value =78 Turn number=1 TIME 2019-04-05 14:52:09
+
+Frame number =117 angle value =81 Turn number=1 TIME 2019-04-05 14:52:10
+
+Frame number =118 angle value =84 Turn number=1 TIME 2019-04-05 14:52:12
+
+Frame number =119 angle value =87 Turn number=1 TIME 2019-04-05 14:52:14
+
+Frame number =120 angle value =87 Turn number=2 TIME 2019-04-05 14:52:15
+
+Frame number =121 angle value =84 Turn number=2 TIME 2019-04-05 14:52:17
+
+Frame number =122 angle value =81 Turn number=2 TIME 2019-04-05 14:52:18
+
+Frame number =123 angle value =78 Turn number=2 TIME 2019-04-05 14:52:20
+
+Frame number =124 angle value =75 Turn number=2 TIME 2019-04-05 14:52:21
+
+Frame number =125 angle value =72 Turn number=2 TIME 2019-04-05 14:52:23
+
+Frame number =126 angle value =69 Turn number=2 TIME 2019-04-05 14:52:25
+
+Frame number =127 angle value =66 Turn number=2 TIME 2019-04-05 14:52:26
+
+Frame number =128 angle value =63 Turn number=2 TIME 2019-04-05 14:52:28
+
+Frame number =129 angle value =60 Turn number=2 TIME 2019-04-05 14:52:29
+
+Frame number =130 angle value =57 Turn number=2 TIME 2019-04-05 14:52:31
+
+Frame number =131 angle value =54 Turn number=2 TIME 2019-04-05 14:52:33
+
+Frame number =132 angle value =51 Turn number=2 TIME 2019-04-05 14:52:34
+
+Frame number =133 angle value =48 Turn number=2 TIME 2019-04-05 14:52:36
+
+Frame number =134 angle value =45 Turn number=2 TIME 2019-04-05 14:52:37
+
+Frame number =135 angle value =42 Turn number=2 TIME 2019-04-05 14:52:39
+
+Frame number =136 angle value =39 Turn number=2 TIME 2019-04-05 14:52:41
+
+Frame number =137 angle value =36 Turn number=2 TIME 2019-04-05 14:52:42
+
+Frame number =138 angle value =33 Turn number=2 TIME 2019-04-05 14:52:44
+
+Frame number =139 angle value =30 Turn number=2 TIME 2019-04-05 14:52:45
+
+Frame number =140 angle value =27 Turn number=2 TIME 2019-04-05 14:52:47
+
+Frame number =141 angle value =24 Turn number=2 TIME 2019-04-05 14:52:48
+
+Frame number =142 angle value =21 Turn number=2 TIME 2019-04-05 14:52:50
+
+Frame number =143 angle value =18 Turn number=2 TIME 2019-04-05 14:52:52
+
+Frame number =144 angle value =15 Turn number=2 TIME 2019-04-05 14:52:53
+
+Frame number =145 angle value =12 Turn number=2 TIME 2019-04-05 14:52:55
+
+Frame number =146 angle value =9 Turn number=2 TIME 2019-04-05 14:52:56
+
+Frame number =147 angle value =6 Turn number=2 TIME 2019-04-05 14:52:58
+
+Frame number =148 angle value =3 Turn number=2 TIME 2019-04-05 14:53:00
+
+Frame number =149 angle value =0 Turn number=2 TIME 2019-04-05 14:53:01
+
+Frame number =150 angle value =3 Turn number=2 TIME 2019-04-05 14:53:03
+
+Frame number =151 angle value =6 Turn number=2 TIME 2019-04-05 14:53:04
+
+Frame number =152 angle value =9 Turn number=2 TIME 2019-04-05 14:53:06
+
+Frame number =153 angle value =12 Turn number=2 TIME 2019-04-05 14:53:07
+
+Frame number =154 angle value =15 Turn number=2 TIME 2019-04-05 14:53:09
+
+Frame number =155 angle value =18 Turn number=2 TIME 2019-04-05 14:53:11
+
+Frame number =156 angle value =21 Turn number=2 TIME 2019-04-05 14:53:12
+
+Frame number =157 angle value =24 Turn number=2 TIME 2019-04-05 14:53:14
+
+Frame number =158 angle value =27 Turn number=2 TIME 2019-04-05 14:53:15
+
+Frame number =159 angle value =30 Turn number=2 TIME 2019-04-05 14:53:17
+
+Frame number =160 angle value =33 Turn number=2 TIME 2019-04-05 14:53:19
+
+Frame number =161 angle value =36 Turn number=2 TIME 2019-04-05 14:53:20
+
+Frame number =162 angle value =39 Turn number=2 TIME 2019-04-05 14:53:22
+
+Frame number =163 angle value =42 Turn number=2 TIME 2019-04-05 14:53:23
+
+Frame number =164 angle value =45 Turn number=2 TIME 2019-04-05 14:53:25
+
+Frame number =165 angle value =48 Turn number=2 TIME 2019-04-05 14:53:27
+
+Frame number =166 angle value =51 Turn number=2 TIME 2019-04-05 14:53:28
+
+Frame number =167 angle value =54 Turn number=2 TIME 2019-04-05 14:53:30
+
+Frame number =168 angle value =57 Turn number=2 TIME 2019-04-05 14:53:31
+
+Frame number =169 angle value =60 Turn number=2 TIME 2019-04-05 14:53:33
+
+Frame number =170 angle value =63 Turn number=2 TIME 2019-04-05 14:53:34
+
+Frame number =171 angle value =66 Turn number=2 TIME 2019-04-05 14:53:36
+
+Frame number =172 angle value =69 Turn number=2 TIME 2019-04-05 14:53:38
+
+Frame number =173 angle value =72 Turn number=2 TIME 2019-04-05 14:53:39
+
+Frame number =174 angle value =75 Turn number=2 TIME 2019-04-05 14:53:41
+
+Frame number =175 angle value =78 Turn number=2 TIME 2019-04-05 14:53:42
+
+Frame number =176 angle value =81 Turn number=2 TIME 2019-04-05 14:53:44
+
+Frame number =177 angle value =84 Turn number=2 TIME 2019-04-05 14:53:46
+
+Frame number =178 angle value =87 Turn number=2 TIME 2019-04-05 14:53:47
+
+Frame number =179 angle value =87 Turn number=3 TIME 2019-04-05 14:53:49
+
+Frame number =180 angle value =84 Turn number=3 TIME 2019-04-05 14:53:50
+
+Frame number =181 angle value =81 Turn number=3 TIME 2019-04-05 14:53:52
+
+Frame number =182 angle value =78 Turn number=3 TIME 2019-04-05 14:53:54
+
+Frame number =183 angle value =75 Turn number=3 TIME 2019-04-05 14:53:55
+
+Frame number =184 angle value =72 Turn number=3 TIME 2019-04-05 14:53:57
+
+Frame number =185 angle value =69 Turn number=3 TIME 2019-04-05 14:53:58
+
+Frame number =186 angle value =66 Turn number=3 TIME 2019-04-05 14:54:00
+
+Frame number =187 angle value =63 Turn number=3 TIME 2019-04-05 14:54:01
+
+Frame number =188 angle value =60 Turn number=3 TIME 2019-04-05 14:54:03
+
+Frame number =189 angle value =57 Turn number=3 TIME 2019-04-05 14:54:05
+
+Frame number =190 angle value =54 Turn number=3 TIME 2019-04-05 14:54:06
+
+Frame number =191 angle value =51 Turn number=3 TIME 2019-04-05 14:54:08
+
+Frame number =192 angle value =48 Turn number=3 TIME 2019-04-05 14:54:09
+
+Frame number =193 angle value =45 Turn number=3 TIME 2019-04-05 14:54:11
+
+Frame number =194 angle value =42 Turn number=3 TIME 2019-04-05 14:54:13
+
+Frame number =195 angle value =39 Turn number=3 TIME 2019-04-05 14:54:14
+
+Frame number =196 angle value =36 Turn number=3 TIME 2019-04-05 14:54:16
+
+Frame number =197 angle value =33 Turn number=3 TIME 2019-04-05 14:54:17
+
+Frame number =198 angle value =30 Turn number=3 TIME 2019-04-05 14:54:19
+
+Frame number =199 angle value =27 Turn number=3 TIME 2019-04-05 14:54:21
+
+Frame number =200 angle value =24 Turn number=3 TIME 2019-04-05 14:54:22
+
+Frame number =201 angle value =21 Turn number=3 TIME 2019-04-05 14:54:24
+
+Frame number =202 angle value =18 Turn number=3 TIME 2019-04-05 14:54:25
+
+Frame number =203 angle value =15 Turn number=3 TIME 2019-04-05 14:54:27
+
+Frame number =204 angle value =12 Turn number=3 TIME 2019-04-05 14:54:28
+
+Frame number =205 angle value =9 Turn number=3 TIME 2019-04-05 14:54:30
+
+Frame number =206 angle value =6 Turn number=3 TIME 2019-04-05 14:54:32
+
+Frame number =207 angle value =3 Turn number=3 TIME 2019-04-05 14:54:33
+
+Frame number =208 angle value =0 Turn number=3 TIME 2019-04-05 14:54:35
+
+Frame number =209 angle value =3 Turn number=3 TIME 2019-04-05 14:54:36
+
+Frame number =210 angle value =6 Turn number=3 TIME 2019-04-05 14:54:38
+
+Frame number =211 angle value =9 Turn number=3 TIME 2019-04-05 14:54:40
+
+Frame number =212 angle value =12 Turn number=3 TIME 2019-04-05 14:54:41
+
+Frame number =213 angle value =15 Turn number=3 TIME 2019-04-05 14:54:43
+
+Frame number =214 angle value =18 Turn number=3 TIME 2019-04-05 14:54:44
+
+Frame number =215 angle value =21 Turn number=3 TIME 2019-04-05 14:54:46
+
+Frame number =216 angle value =24 Turn number=3 TIME 2019-04-05 14:54:47
+
+Frame number =217 angle value =27 Turn number=3 TIME 2019-04-05 14:54:49
+
+Frame number =218 angle value =30 Turn number=3 TIME 2019-04-05 14:54:51
+
+Frame number =219 angle value =33 Turn number=3 TIME 2019-04-05 14:54:52
+
+Frame number =220 angle value =36 Turn number=3 TIME 2019-04-05 14:54:54
+
+Frame number =221 angle value =39 Turn number=3 TIME 2019-04-05 14:54:55
+
+Frame number =222 angle value =42 Turn number=3 TIME 2019-04-05 14:54:57
+
+Frame number =223 angle value =45 Turn number=3 TIME 2019-04-05 14:54:59
+
+Frame number =224 angle value =48 Turn number=3 TIME 2019-04-05 14:55:00
+
+Frame number =225 angle value =51 Turn number=3 TIME 2019-04-05 14:55:02
+
+Frame number =226 angle value =54 Turn number=3 TIME 2019-04-05 14:55:03
+
+Frame number =227 angle value =57 Turn number=3 TIME 2019-04-05 14:55:05
+
+Frame number =228 angle value =60 Turn number=3 TIME 2019-04-05 14:55:06
+
+Frame number =229 angle value =63 Turn number=3 TIME 2019-04-05 14:55:08
+
+Frame number =230 angle value =66 Turn number=3 TIME 2019-04-05 14:55:10
+
+Frame number =231 angle value =69 Turn number=3 TIME 2019-04-05 14:55:11
+
+Frame number =232 angle value =72 Turn number=3 TIME 2019-04-05 14:55:13
+
+Frame number =233 angle value =75 Turn number=3 TIME 2019-04-05 14:55:14
+
+Frame number =234 angle value =78 Turn number=3 TIME 2019-04-05 14:55:16
+
+Frame number =235 angle value =81 Turn number=3 TIME 2019-04-05 14:55:18
+
+Frame number =236 angle value =84 Turn number=3 TIME 2019-04-05 14:55:19
+
+Frame number =237 angle value =87 Turn number=3 TIME 2019-04-05 14:55:21
+
+Frame number =238 angle value =87 Turn number=4 TIME 2019-04-05 14:55:22
+
+Frame number =239 angle value =84 Turn number=4 TIME 2019-04-05 14:55:24
+
+Frame number =240 angle value =81 Turn number=4 TIME 2019-04-05 14:55:26
+
+Frame number =241 angle value =78 Turn number=4 TIME 2019-04-05 14:55:27
+
+Frame number =242 angle value =75 Turn number=4 TIME 2019-04-05 14:55:29
+
+Frame number =243 angle value =72 Turn number=4 TIME 2019-04-05 14:55:30
+
+Frame number =244 angle value =69 Turn number=4 TIME 2019-04-05 14:55:32
+
+Frame number =245 angle value =66 Turn number=4 TIME 2019-04-05 14:55:33
+
+Frame number =246 angle value =63 Turn number=4 TIME 2019-04-05 14:55:35
+
+Frame number =247 angle value =60 Turn number=4 TIME 2019-04-05 14:55:37
+
+Frame number =248 angle value =57 Turn number=4 TIME 2019-04-05 14:55:38
+
+Frame number =249 angle value =54 Turn number=4 TIME 2019-04-05 14:55:40
+
+Frame number =250 angle value =51 Turn number=4 TIME 2019-04-05 14:55:41
+
+Frame number =251 angle value =48 Turn number=4 TIME 2019-04-05 14:55:43
+
+Frame number =252 angle value =45 Turn number=4 TIME 2019-04-05 14:55:45
+
+Frame number =253 angle value =42 Turn number=4 TIME 2019-04-05 14:55:46
+
+Frame number =254 angle value =39 Turn number=4 TIME 2019-04-05 14:55:48
+
+Frame number =255 angle value =36 Turn number=4 TIME 2019-04-05 14:55:49
+
+Frame number =256 angle value =33 Turn number=4 TIME 2019-04-05 14:55:51
+
+Frame number =257 angle value =30 Turn number=4 TIME 2019-04-05 14:55:53
+
+Frame number =258 angle value =27 Turn number=4 TIME 2019-04-05 14:55:54
+
+Frame number =259 angle value =24 Turn number=4 TIME 2019-04-05 14:55:56
+
+Frame number =260 angle value =21 Turn number=4 TIME 2019-04-05 14:55:57
+
+Frame number =261 angle value =18 Turn number=4 TIME 2019-04-05 14:55:59
+
+Frame number =262 angle value =15 Turn number=4 TIME 2019-04-05 14:56:00
+
+Frame number =263 angle value =12 Turn number=4 TIME 2019-04-05 14:56:02
+
+Frame number =264 angle value =9 Turn number=4 TIME 2019-04-05 14:56:04
+
+Frame number =265 angle value =6 Turn number=4 TIME 2019-04-05 14:56:05
+
+Frame number =266 angle value =3 Turn number=4 TIME 2019-04-05 14:56:07
+
+Frame number =267 angle value =0 Turn number=4 TIME 2019-04-05 14:56:08
+
+Frame number =268 angle value =3 Turn number=4 TIME 2019-04-05 14:56:10
+
+Frame number =269 angle value =6 Turn number=4 TIME 2019-04-05 14:56:12
+
+Frame number =270 angle value =9 Turn number=4 TIME 2019-04-05 14:56:13
+
+Frame number =271 angle value =12 Turn number=4 TIME 2019-04-05 14:56:15
+
+Frame number =272 angle value =15 Turn number=4 TIME 2019-04-05 14:56:16
+
+Frame number =273 angle value =18 Turn number=4 TIME 2019-04-05 14:56:18
+
+Frame number =274 angle value =21 Turn number=4 TIME 2019-04-05 14:56:19
+
+Frame number =275 angle value =24 Turn number=4 TIME 2019-04-05 14:56:21
+
+Frame number =276 angle value =27 Turn number=4 TIME 2019-04-05 14:56:23
+
+Frame number =277 angle value =30 Turn number=4 TIME 2019-04-05 14:56:24
+
+Frame number =278 angle value =33 Turn number=4 TIME 2019-04-05 14:56:26
+
+Frame number =279 angle value =36 Turn number=4 TIME 2019-04-05 14:56:27
+
+Frame number =280 angle value =39 Turn number=4 TIME 2019-04-05 14:56:29
+
+Frame number =281 angle value =42 Turn number=4 TIME 2019-04-05 14:56:31
+
+Frame number =282 angle value =45 Turn number=4 TIME 2019-04-05 14:56:32
+
+Frame number =283 angle value =48 Turn number=4 TIME 2019-04-05 14:56:34
+
+Frame number =284 angle value =51 Turn number=4 TIME 2019-04-05 14:56:35
+
+Frame number =285 angle value =54 Turn number=4 TIME 2019-04-05 14:56:37
+
+Frame number =286 angle value =57 Turn number=4 TIME 2019-04-05 14:56:39
+
+Frame number =287 angle value =60 Turn number=4 TIME 2019-04-05 14:56:40
+
+Frame number =288 angle value =63 Turn number=4 TIME 2019-04-05 14:56:42
+
+Frame number =289 angle value =66 Turn number=4 TIME 2019-04-05 14:56:43
+
+Frame number =290 angle value =69 Turn number=4 TIME 2019-04-05 14:56:45
+
+Frame number =291 angle value =72 Turn number=4 TIME 2019-04-05 14:56:46
+
+Frame number =292 angle value =75 Turn number=4 TIME 2019-04-05 14:56:48
+
+Frame number =293 angle value =78 Turn number=4 TIME 2019-04-05 14:56:50
+
+Frame number =294 angle value =81 Turn number=4 TIME 2019-04-05 14:56:51
+
+Frame number =295 angle value =84 Turn number=4 TIME 2019-04-05 14:56:53
+
+Frame number =296 angle value =87 Turn number=4 TIME 2019-04-05 14:56:54
+
+Frame number =297 angle value =87 Turn number=5 TIME 2019-04-05 14:56:56
+
+Frame number =298 angle value =84 Turn number=5 TIME 2019-04-05 14:56:58
+
+Frame number =299 angle value =81 Turn number=5 TIME 2019-04-05 14:56:59
+
+Frame number =300 angle value =78 Turn number=5 TIME 2019-04-05 14:57:01
+
+Frame number =301 angle value =75 Turn number=5 TIME 2019-04-05 14:57:02
+
+Frame number =302 angle value =72 Turn number=5 TIME 2019-04-05 14:57:04
+
+Frame number =303 angle value =69 Turn number=5 TIME 2019-04-05 14:57:05
+
+Frame number =304 angle value =66 Turn number=5 TIME 2019-04-05 14:57:07
+
+Frame number =305 angle value =63 Turn number=5 TIME 2019-04-05 14:57:09
+
+Frame number =306 angle value =60 Turn number=5 TIME 2019-04-05 14:57:10
+
+Frame number =307 angle value =57 Turn number=5 TIME 2019-04-05 14:57:12
+
+Frame number =308 angle value =54 Turn number=5 TIME 2019-04-05 14:57:13
+
+Frame number =309 angle value =51 Turn number=5 TIME 2019-04-05 14:57:15
+
+Frame number =310 angle value =48 Turn number=5 TIME 2019-04-05 14:57:17
+
+Frame number =311 angle value =45 Turn number=5 TIME 2019-04-05 14:57:18
+
+Frame number =312 angle value =42 Turn number=5 TIME 2019-04-05 14:57:20
+
+Frame number =313 angle value =39 Turn number=5 TIME 2019-04-05 14:57:21
+
+Frame number =314 angle value =36 Turn number=5 TIME 2019-04-05 14:57:23
+
+Frame number =315 angle value =33 Turn number=5 TIME 2019-04-05 14:57:25
+
+Frame number =316 angle value =30 Turn number=5 TIME 2019-04-05 14:57:26
+
+Frame number =317 angle value =27 Turn number=5 TIME 2019-04-05 14:57:28
+
+Frame number =318 angle value =24 Turn number=5 TIME 2019-04-05 14:57:29
+
+Frame number =319 angle value =21 Turn number=5 TIME 2019-04-05 14:57:31
+
+Frame number =320 angle value =18 Turn number=5 TIME 2019-04-05 14:57:32
+
+Frame number =321 angle value =15 Turn number=5 TIME 2019-04-05 14:57:34
+
+Frame number =322 angle value =12 Turn number=5 TIME 2019-04-05 14:57:36
+
+Frame number =323 angle value =9 Turn number=5 TIME 2019-04-05 14:57:37
+
+Frame number =324 angle value =6 Turn number=5 TIME 2019-04-05 14:57:39
+
+Frame number =325 angle value =3 Turn number=5 TIME 2019-04-05 14:57:40
+
+Frame number =326 angle value =0 Turn number=5 TIME 2019-04-05 14:57:42
+
+Frame number =327 angle value =3 Turn number=5 TIME 2019-04-05 14:57:44
+
+Frame number =328 angle value =6 Turn number=5 TIME 2019-04-05 14:57:45
+
+Frame number =329 angle value =9 Turn number=5 TIME 2019-04-05 14:57:47
+
+Frame number =330 angle value =12 Turn number=5 TIME 2019-04-05 14:57:48
+
+Frame number =331 angle value =15 Turn number=5 TIME 2019-04-05 14:57:50
+
+Frame number =332 angle value =18 Turn number=5 TIME 2019-04-05 14:57:51
+
+Frame number =333 angle value =21 Turn number=5 TIME 2019-04-05 14:57:53
+
+Frame number =334 angle value =24 Turn number=5 TIME 2019-04-05 14:57:55
+
+Frame number =335 angle value =27 Turn number=5 TIME 2019-04-05 14:57:56
+
+Frame number =336 angle value =30 Turn number=5 TIME 2019-04-05 14:57:58
+
+Frame number =337 angle value =33 Turn number=5 TIME 2019-04-05 14:57:59
+
+Frame number =338 angle value =36 Turn number=5 TIME 2019-04-05 14:58:01
+
+Frame number =339 angle value =39 Turn number=5 TIME 2019-04-05 14:58:03
+
+Frame number =340 angle value =42 Turn number=5 TIME 2019-04-05 14:58:04
+
+Frame number =341 angle value =45 Turn number=5 TIME 2019-04-05 14:58:06
+
+Frame number =342 angle value =48 Turn number=5 TIME 2019-04-05 14:58:07
+
+Frame number =343 angle value =51 Turn number=5 TIME 2019-04-05 14:58:09
+
+Frame number =344 angle value =54 Turn number=5 TIME 2019-04-05 14:58:11
+
+Frame number =345 angle value =57 Turn number=5 TIME 2019-04-05 14:58:12
+
+Frame number =346 angle value =60 Turn number=5 TIME 2019-04-05 14:58:14
+
+Frame number =347 angle value =63 Turn number=5 TIME 2019-04-05 14:58:15
+
+Frame number =348 angle value =66 Turn number=5 TIME 2019-04-05 14:58:17
+
+Frame number =349 angle value =69 Turn number=5 TIME 2019-04-05 14:58:18
+
+Frame number =350 angle value =72 Turn number=5 TIME 2019-04-05 14:58:20
+
+Frame number =351 angle value =75 Turn number=5 TIME 2019-04-05 14:58:22
+
+Frame number =352 angle value =78 Turn number=5 TIME 2019-04-05 14:58:23
+
+Frame number =353 angle value =81 Turn number=5 TIME 2019-04-05 14:58:25
+
+Frame number =354 angle value =84 Turn number=5 TIME 2019-04-05 14:58:26
+
+Frame number =355 angle value =87 Turn number=5 TIME 2019-04-05 14:58:28
+
+Frame number =356 angle value =87 Turn number=6 TIME 2019-04-05 14:58:30
+
+Frame number =357 angle value =84 Turn number=6 TIME 2019-04-05 14:58:31
+
+Frame number =358 angle value =81 Turn number=6 TIME 2019-04-05 14:58:33
+
+Frame number =359 angle value =78 Turn number=6 TIME 2019-04-05 14:58:34
+
+Frame number =360 angle value =75 Turn number=6 TIME 2019-04-05 14:58:36
+
+Frame number =361 angle value =72 Turn number=6 TIME 2019-04-05 14:58:37
+
+Frame number =362 angle value =69 Turn number=6 TIME 2019-04-05 14:58:39
+
+Frame number =363 angle value =66 Turn number=6 TIME 2019-04-05 14:58:41
+
+Frame number =364 angle value =63 Turn number=6 TIME 2019-04-05 14:58:42
+
+Frame number =365 angle value =60 Turn number=6 TIME 2019-04-05 14:58:44
+
+Frame number =366 angle value =57 Turn number=6 TIME 2019-04-05 14:58:45
+
+Frame number =367 angle value =54 Turn number=6 TIME 2019-04-05 14:58:47
+
+Frame number =368 angle value =51 Turn number=6 TIME 2019-04-05 14:58:49
+
+Frame number =369 angle value =48 Turn number=6 TIME 2019-04-05 14:58:50
+
+Frame number =370 angle value =45 Turn number=6 TIME 2019-04-05 14:58:52
+
+Frame number =371 angle value =42 Turn number=6 TIME 2019-04-05 14:58:53
+
+Frame number =372 angle value =39 Turn number=6 TIME 2019-04-05 14:58:55
+
+Frame number =373 angle value =36 Turn number=6 TIME 2019-04-05 14:58:57
+
+Frame number =374 angle value =33 Turn number=6 TIME 2019-04-05 14:58:58
+
+Frame number =375 angle value =30 Turn number=6 TIME 2019-04-05 14:59:00
+
+Frame number =376 angle value =27 Turn number=6 TIME 2019-04-05 14:59:01
+
+Frame number =377 angle value =24 Turn number=6 TIME 2019-04-05 14:59:03
+
+Frame number =378 angle value =21 Turn number=6 TIME 2019-04-05 14:59:04
+
+Frame number =379 angle value =18 Turn number=6 TIME 2019-04-05 14:59:06
+
+Frame number =380 angle value =15 Turn number=6 TIME 2019-04-05 14:59:08
+
+Frame number =381 angle value =12 Turn number=6 TIME 2019-04-05 14:59:09
+
+Frame number =382 angle value =9 Turn number=6 TIME 2019-04-05 14:59:11
+
+Frame number =383 angle value =6 Turn number=6 TIME 2019-04-05 14:59:12
+
+Frame number =384 angle value =3 Turn number=6 TIME 2019-04-05 14:59:14
+
+Frame number =385 angle value =0 Turn number=6 TIME 2019-04-05 14:59:16
+
+Frame number =386 angle value =3 Turn number=6 TIME 2019-04-05 14:59:17
+
+Frame number =387 angle value =6 Turn number=6 TIME 2019-04-05 14:59:19
+
+Frame number =388 angle value =9 Turn number=6 TIME 2019-04-05 14:59:20
+
+Frame number =389 angle value =12 Turn number=6 TIME 2019-04-05 14:59:22
+
+Frame number =390 angle value =15 Turn number=6 TIME 2019-04-05 14:59:23
+
+Frame number =391 angle value =18 Turn number=6 TIME 2019-04-05 14:59:25
+
+Frame number =392 angle value =21 Turn number=6 TIME 2019-04-05 14:59:27
+
+Frame number =393 angle value =24 Turn number=6 TIME 2019-04-05 14:59:28
+
+Frame number =394 angle value =27 Turn number=6 TIME 2019-04-05 14:59:30
+
+Frame number =395 angle value =30 Turn number=6 TIME 2019-04-05 14:59:31
+
+Frame number =396 angle value =33 Turn number=6 TIME 2019-04-05 14:59:33
+
+Frame number =397 angle value =36 Turn number=6 TIME 2019-04-05 14:59:35
+
+Frame number =398 angle value =39 Turn number=6 TIME 2019-04-05 14:59:36
+
+Frame number =399 angle value =42 Turn number=6 TIME 2019-04-05 14:59:38
+
+Frame number =400 angle value =45 Turn number=6 TIME 2019-04-05 14:59:39
+
+Frame number =401 angle value =48 Turn number=6 TIME 2019-04-05 14:59:41
+
+Frame number =402 angle value =51 Turn number=6 TIME 2019-04-05 14:59:43
+
+Frame number =403 angle value =54 Turn number=6 TIME 2019-04-05 14:59:44
+
+Frame number =404 angle value =57 Turn number=6 TIME 2019-04-05 14:59:46
+
+Frame number =405 angle value =60 Turn number=6 TIME 2019-04-05 14:59:47
+
+Frame number =406 angle value =63 Turn number=6 TIME 2019-04-05 14:59:49
+
+Frame number =407 angle value =66 Turn number=6 TIME 2019-04-05 14:59:50
+
+Frame number =408 angle value =69 Turn number=6 TIME 2019-04-05 14:59:52
+
+Frame number =409 angle value =72 Turn number=6 TIME 2019-04-05 14:59:54
+
+Frame number =410 angle value =75 Turn number=6 TIME 2019-04-05 14:59:55
+
+Frame number =411 angle value =78 Turn number=6 TIME 2019-04-05 14:59:57
+
+Frame number =412 angle value =81 Turn number=6 TIME 2019-04-05 14:59:58
+
+Frame number =413 angle value =84 Turn number=6 TIME 2019-04-05 15:00:00
+
+Frame number =414 angle value =87 Turn number=6 TIME 2019-04-05 15:00:02
+
+Frame number =415 angle value =87 Turn number=7 TIME 2019-04-05 15:00:03
+
+Frame number =416 angle value =84 Turn number=7 TIME 2019-04-05 15:00:05
+
+Frame number =417 angle value =81 Turn number=7 TIME 2019-04-05 15:00:06
+
+Frame number =418 angle value =78 Turn number=7 TIME 2019-04-05 15:00:08
+
+Frame number =419 angle value =75 Turn number=7 TIME 2019-04-05 15:00:09
+
+Frame number =420 angle value =72 Turn number=7 TIME 2019-04-05 15:00:11
+
+Frame number =421 angle value =69 Turn number=7 TIME 2019-04-05 15:00:13
+
+Frame number =422 angle value =66 Turn number=7 TIME 2019-04-05 15:00:14
+
+Frame number =423 angle value =63 Turn number=7 TIME 2019-04-05 15:00:16
+
+Frame number =424 angle value =60 Turn number=7 TIME 2019-04-05 15:00:17
+
+Frame number =425 angle value =57 Turn number=7 TIME 2019-04-05 15:00:19
+
+Frame number =426 angle value =54 Turn number=7 TIME 2019-04-05 15:00:21
+
+Frame number =427 angle value =51 Turn number=7 TIME 2019-04-05 15:00:22
+
+Frame number =428 angle value =48 Turn number=7 TIME 2019-04-05 15:00:24
+
+Frame number =429 angle value =45 Turn number=7 TIME 2019-04-05 15:00:25
+
+Frame number =430 angle value =42 Turn number=7 TIME 2019-04-05 15:00:27
+
+Frame number =431 angle value =39 Turn number=7 TIME 2019-04-05 15:00:29
+
+Frame number =432 angle value =36 Turn number=7 TIME 2019-04-05 15:00:30
+
+Frame number =433 angle value =33 Turn number=7 TIME 2019-04-05 15:00:32
+
+Frame number =434 angle value =30 Turn number=7 TIME 2019-04-05 15:00:33
+
+Frame number =435 angle value =27 Turn number=7 TIME 2019-04-05 15:00:35
+
+Frame number =436 angle value =24 Turn number=7 TIME 2019-04-05 15:00:36
+
+Frame number =437 angle value =21 Turn number=7 TIME 2019-04-05 15:00:38
+
+Frame number =438 angle value =18 Turn number=7 TIME 2019-04-05 15:00:40
+
+Frame number =439 angle value =15 Turn number=7 TIME 2019-04-05 15:00:41
+
+Frame number =440 angle value =12 Turn number=7 TIME 2019-04-05 15:00:43
+
+Frame number =441 angle value =9 Turn number=7 TIME 2019-04-05 15:00:44
+
+Frame number =442 angle value =6 Turn number=7 TIME 2019-04-05 15:00:46
+
+Frame number =443 angle value =3 Turn number=7 TIME 2019-04-05 15:00:48
+
+Frame number =444 angle value =0 Turn number=7 TIME 2019-04-05 15:00:49
+
+Frame number =445 angle value =3 Turn number=7 TIME 2019-04-05 15:00:51
+
+Frame number =446 angle value =6 Turn number=7 TIME 2019-04-05 15:00:52
+
+Frame number =447 angle value =9 Turn number=7 TIME 2019-04-05 15:00:54
+
+Frame number =448 angle value =12 Turn number=7 TIME 2019-04-05 15:00:55
+
+Frame number =449 angle value =15 Turn number=7 TIME 2019-04-05 15:00:57
+
+Frame number =450 angle value =18 Turn number=7 TIME 2019-04-05 15:00:59
+
+Frame number =451 angle value =21 Turn number=7 TIME 2019-04-05 15:01:00
+
+Frame number =452 angle value =24 Turn number=7 TIME 2019-04-05 15:01:02
+
+Frame number =453 angle value =27 Turn number=7 TIME 2019-04-05 15:01:03
+
+Frame number =454 angle value =30 Turn number=7 TIME 2019-04-05 15:01:05
+
+Frame number =455 angle value =33 Turn number=7 TIME 2019-04-05 15:01:07
+
+Frame number =456 angle value =36 Turn number=7 TIME 2019-04-05 15:01:08
+
+Frame number =457 angle value =39 Turn number=7 TIME 2019-04-05 15:01:10
+
+Frame number =458 angle value =42 Turn number=7 TIME 2019-04-05 15:01:11
+
+Frame number =459 angle value =45 Turn number=7 TIME 2019-04-05 15:01:13
+
+Frame number =460 angle value =48 Turn number=7 TIME 2019-04-05 15:01:15
+
+Frame number =461 angle value =51 Turn number=7 TIME 2019-04-05 15:01:16
+
+Frame number =462 angle value =54 Turn number=7 TIME 2019-04-05 15:01:18
+
+Frame number =463 angle value =57 Turn number=7 TIME 2019-04-05 15:01:19
+
+Frame number =464 angle value =60 Turn number=7 TIME 2019-04-05 15:01:21
+
+Frame number =465 angle value =63 Turn number=7 TIME 2019-04-05 15:01:22
+
+Frame number =466 angle value =66 Turn number=7 TIME 2019-04-05 15:01:24
+
+Frame number =467 angle value =69 Turn number=7 TIME 2019-04-05 15:01:26
+
+Frame number =468 angle value =72 Turn number=7 TIME 2019-04-05 15:01:27
+
+Frame number =469 angle value =75 Turn number=7 TIME 2019-04-05 15:01:29
+
+Frame number =470 angle value =78 Turn number=7 TIME 2019-04-05 15:01:30
+
+Frame number =471 angle value =81 Turn number=7 TIME 2019-04-05 15:01:32
+
+Frame number =472 angle value =84 Turn number=7 TIME 2019-04-05 15:01:34
+
+Frame number =473 angle value =87 Turn number=7 TIME 2019-04-05 15:01:35
+
+Frame number =474 angle value =87 Turn number=8 TIME 2019-04-05 15:01:37
+
+Frame number =475 angle value =84 Turn number=8 TIME 2019-04-05 15:01:38
+
+Frame number =476 angle value =81 Turn number=8 TIME 2019-04-05 15:01:40
+
+Frame number =477 angle value =78 Turn number=8 TIME 2019-04-05 15:01:41
+
+Frame number =478 angle value =75 Turn number=8 TIME 2019-04-05 15:01:43
+
+Frame number =479 angle value =72 Turn number=8 TIME 2019-04-05 15:01:45
+
+Frame number =480 angle value =69 Turn number=8 TIME 2019-04-05 15:01:46
+
+Frame number =481 angle value =66 Turn number=8 TIME 2019-04-05 15:01:48
+
+Frame number =482 angle value =63 Turn number=8 TIME 2019-04-05 15:01:49
+
+Frame number =483 angle value =60 Turn number=8 TIME 2019-04-05 15:01:51
+
+Frame number =484 angle value =57 Turn number=8 TIME 2019-04-05 15:01:53
+
+Frame number =485 angle value =54 Turn number=8 TIME 2019-04-05 15:01:54
+
+Frame number =486 angle value =51 Turn number=8 TIME 2019-04-05 15:01:56
+
+Frame number =487 angle value =48 Turn number=8 TIME 2019-04-05 15:01:57
+
+Frame number =488 angle value =45 Turn number=8 TIME 2019-04-05 15:01:59
+
+Frame number =489 angle value =42 Turn number=8 TIME 2019-04-05 15:02:00
+
+Frame number =490 angle value =39 Turn number=8 TIME 2019-04-05 15:02:02
+
+Frame number =491 angle value =36 Turn number=8 TIME 2019-04-05 15:02:04
+
+Frame number =492 angle value =33 Turn number=8 TIME 2019-04-05 15:02:05
+
+Frame number =493 angle value =30 Turn number=8 TIME 2019-04-05 15:02:07
+
+Frame number =494 angle value =27 Turn number=8 TIME 2019-04-05 15:02:08
+
+Frame number =495 angle value =24 Turn number=8 TIME 2019-04-05 15:02:10
+
+Frame number =496 angle value =21 Turn number=8 TIME 2019-04-05 15:02:12
+
+Frame number =497 angle value =18 Turn number=8 TIME 2019-04-05 15:02:13
+
+Frame number =498 angle value =15 Turn number=8 TIME 2019-04-05 15:02:15
+
+Frame number =499 angle value =12 Turn number=8 TIME 2019-04-05 15:02:16
+
+Frame number =500 angle value =9 Turn number=8 TIME 2019-04-05 15:02:18
+
+Frame number =501 angle value =6 Turn number=8 TIME 2019-04-05 15:02:20
+
+Frame number =502 angle value =3 Turn number=8 TIME 2019-04-05 15:02:21
+
+Frame number =503 angle value =0 Turn number=8 TIME 2019-04-05 15:02:23
+
+Frame number =504 angle value =3 Turn number=8 TIME 2019-04-05 15:02:24
+
+Frame number =505 angle value =6 Turn number=8 TIME 2019-04-05 15:02:26
+
+Frame number =506 angle value =9 Turn number=8 TIME 2019-04-05 15:02:27
+
+Frame number =507 angle value =12 Turn number=8 TIME 2019-04-05 15:02:29
+
+Frame number =508 angle value =15 Turn number=8 TIME 2019-04-05 15:02:31
+
+Frame number =509 angle value =18 Turn number=8 TIME 2019-04-05 15:02:32
+
+Frame number =510 angle value =21 Turn number=8 TIME 2019-04-05 15:02:34
+
+Frame number =511 angle value =24 Turn number=8 TIME 2019-04-05 15:02:35
+
+Frame number =512 angle value =27 Turn number=8 TIME 2019-04-05 15:02:37
+
+Frame number =513 angle value =30 Turn number=8 TIME 2019-04-05 15:02:39
+
+Frame number =514 angle value =33 Turn number=8 TIME 2019-04-05 15:02:40
+
+Frame number =515 angle value =36 Turn number=8 TIME 2019-04-05 15:02:42
+
+Frame number =516 angle value =39 Turn number=8 TIME 2019-04-05 15:02:43
+
+Frame number =517 angle value =42 Turn number=8 TIME 2019-04-05 15:02:45
+
+Frame number =518 angle value =45 Turn number=8 TIME 2019-04-05 15:02:46
+
+Frame number =519 angle value =48 Turn number=8 TIME 2019-04-05 15:02:48
+
+Frame number =520 angle value =51 Turn number=8 TIME 2019-04-05 15:02:50
+
+Frame number =521 angle value =54 Turn number=8 TIME 2019-04-05 15:02:51
+
+Frame number =522 angle value =57 Turn number=8 TIME 2019-04-05 15:02:53
+
+Frame number =523 angle value =60 Turn number=8 TIME 2019-04-05 15:02:54
+
+Frame number =524 angle value =63 Turn number=8 TIME 2019-04-05 15:02:56
+
+Frame number =525 angle value =66 Turn number=8 TIME 2019-04-05 15:02:58
+
+Frame number =526 angle value =69 Turn number=8 TIME 2019-04-05 15:02:59
+
+Frame number =527 angle value =72 Turn number=8 TIME 2019-04-05 15:03:01
+
+Frame number =528 angle value =75 Turn number=8 TIME 2019-04-05 15:03:02
+
+Frame number =529 angle value =78 Turn number=8 TIME 2019-04-05 15:03:04
+
+Frame number =530 angle value =81 Turn number=8 TIME 2019-04-05 15:03:06
+
+Frame number =531 angle value =84 Turn number=8 TIME 2019-04-05 15:03:07
+
+Frame number =532 angle value =87 Turn number=8 TIME 2019-04-05 15:03:09
+
+Frame number =533 angle value =87 Turn number=9 TIME 2019-04-05 15:03:10
+
+Frame number =534 angle value =84 Turn number=9 TIME 2019-04-05 15:03:12
+
+Frame number =535 angle value =81 Turn number=9 TIME 2019-04-05 15:03:13
+
+Frame number =536 angle value =78 Turn number=9 TIME 2019-04-05 15:03:15
+
+Frame number =537 angle value =75 Turn number=9 TIME 2019-04-05 15:03:17
+
+Frame number =538 angle value =72 Turn number=9 TIME 2019-04-05 15:03:18
+
+Frame number =539 angle value =69 Turn number=9 TIME 2019-04-05 15:03:20
+
+Frame number =540 angle value =66 Turn number=9 TIME 2019-04-05 15:03:21
+
+Frame number =541 angle value =63 Turn number=9 TIME 2019-04-05 15:03:23
+
+Frame number =542 angle value =60 Turn number=9 TIME 2019-04-05 15:03:25
+
+Frame number =543 angle value =57 Turn number=9 TIME 2019-04-05 15:03:26
+
+Frame number =544 angle value =54 Turn number=9 TIME 2019-04-05 15:03:28
+
+Frame number =545 angle value =51 Turn number=9 TIME 2019-04-05 15:03:29
+
+Frame number =546 angle value =48 Turn number=9 TIME 2019-04-05 15:03:31
+
+Frame number =547 angle value =45 Turn number=9 TIME 2019-04-05 15:03:32
+
+Frame number =548 angle value =42 Turn number=9 TIME 2019-04-05 15:03:34
+
+Frame number =549 angle value =39 Turn number=9 TIME 2019-04-05 15:03:36
+
+Frame number =550 angle value =36 Turn number=9 TIME 2019-04-05 15:03:37
+
+Frame number =551 angle value =33 Turn number=9 TIME 2019-04-05 15:03:39
+
+Frame number =552 angle value =30 Turn number=9 TIME 2019-04-05 15:03:40
+
+Frame number =553 angle value =27 Turn number=9 TIME 2019-04-05 15:03:42
+
+Frame number =554 angle value =24 Turn number=9 TIME 2019-04-05 15:03:44
+
+Frame number =555 angle value =21 Turn number=9 TIME 2019-04-05 15:03:45
+
+Frame number =556 angle value =18 Turn number=9 TIME 2019-04-05 15:03:47
+
+Frame number =557 angle value =15 Turn number=9 TIME 2019-04-05 15:03:48
+
+Frame number =558 angle value =12 Turn number=9 TIME 2019-04-05 15:03:50
+
+Frame number =559 angle value =9 Turn number=9 TIME 2019-04-05 15:03:52
+
+Frame number =560 angle value =6 Turn number=9 TIME 2019-04-05 15:03:53
+
+Frame number =561 angle value =3 Turn number=9 TIME 2019-04-05 15:03:55
+
+Frame number =562 angle value =0 Turn number=9 TIME 2019-04-05 15:03:56
+
+Frame number =563 angle value =3 Turn number=9 TIME 2019-04-05 15:03:58
+
+Frame number =564 angle value =6 Turn number=9 TIME 2019-04-05 15:03:59
+
+Frame number =565 angle value =9 Turn number=9 TIME 2019-04-05 15:04:01
+
+Frame number =566 angle value =12 Turn number=9 TIME 2019-04-05 15:04:03
+
+Frame number =567 angle value =15 Turn number=9 TIME 2019-04-05 15:04:04
+
+Frame number =568 angle value =18 Turn number=9 TIME 2019-04-05 15:04:06
+
+Frame number =569 angle value =21 Turn number=9 TIME 2019-04-05 15:04:07
+
+Frame number =570 angle value =24 Turn number=9 TIME 2019-04-05 15:04:09
+
+Frame number =571 angle value =27 Turn number=9 TIME 2019-04-05 15:04:11
+
+Frame number =572 angle value =30 Turn number=9 TIME 2019-04-05 15:04:12
+
+Frame number =573 angle value =33 Turn number=9 TIME 2019-04-05 15:04:14
+
+Frame number =574 angle value =36 Turn number=9 TIME 2019-04-05 15:04:15
+
+Frame number =575 angle value =39 Turn number=9 TIME 2019-04-05 15:04:17
+
+Frame number =576 angle value =42 Turn number=9 TIME 2019-04-05 15:04:18
+
+Frame number =577 angle value =45 Turn number=9 TIME 2019-04-05 15:04:20
+
+Frame number =578 angle value =48 Turn number=9 TIME 2019-04-05 15:04:22
+
+Frame number =579 angle value =51 Turn number=9 TIME 2019-04-05 15:04:23
+
+Frame number =580 angle value =54 Turn number=9 TIME 2019-04-05 15:04:25
+
+Frame number =581 angle value =57 Turn number=9 TIME 2019-04-05 15:04:26
+
+Frame number =582 angle value =60 Turn number=9 TIME 2019-04-05 15:04:28
+
+Frame number =583 angle value =63 Turn number=9 TIME 2019-04-05 15:04:30
+
+Frame number =584 angle value =66 Turn number=9 TIME 2019-04-05 15:04:31
+
+Frame number =585 angle value =69 Turn number=9 TIME 2019-04-05 15:04:33
+
+Frame number =586 angle value =72 Turn number=9 TIME 2019-04-05 15:04:34
+
+Frame number =587 angle value =75 Turn number=9 TIME 2019-04-05 15:04:36
+
+Frame number =588 angle value =78 Turn number=9 TIME 2019-04-05 15:04:37
+
+Frame number =589 angle value =81 Turn number=9 TIME 2019-04-05 15:04:39
+
+Frame number =590 angle value =84 Turn number=9 TIME 2019-04-05 15:04:41
+
+Frame number =591 angle value =87 Turn number=9 TIME 2019-04-05 15:04:42
+
+Program finished

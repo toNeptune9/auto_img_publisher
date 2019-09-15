@@ -1,0 +1,6 @@
+Experiment configuration
+2019-04-05 14:49:06
+Type of experiment: Rotation around Z axis, 90 degrees in both directions. 10 iterations 3
+Tag family: Aruco
+Tag ID: 11
+

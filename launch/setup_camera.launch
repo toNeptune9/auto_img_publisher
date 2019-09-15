@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="img_bucket" type="img_bucket" name="img_bucket" output="screen" ns="ws">
+    <param name="path" value="/home/user"/>
+    </node>
+
+
+</launch>
